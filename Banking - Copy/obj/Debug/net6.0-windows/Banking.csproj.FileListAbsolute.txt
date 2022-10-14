@@ -1,0 +1,97 @@
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\Banking.exe
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\Banking.deps.json
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\Banking.runtimeconfig.json
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmForgot.resources
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmLogin.resources
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmRegister.resources
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.AssemblyInfo.cs
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\refint\Banking.dll
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.genruntimeconfig.cache
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\ref\Banking.dll
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.Properties.Resources.resources
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.csproj.CopyComplete
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmHome.resources
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmHelp.resources
+C:\Users\Student\source\repos\Banking\obj\Debug\net6.0-windows\Banking.frmRegHelp.resources
+C:\Users\Student\source\repos\Banking\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\Banking.exe
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\Banking.deps.json
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\Banking.runtimeconfig.json
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmForgot.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHome.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmLogin.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmRegHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmRegister.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.Properties.Resources.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.AssemblyInfo.cs
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.CopyComplete
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\refint\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.genruntimeconfig.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\ref\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmForgotHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHomeHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\Banking.exe
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\Banking.deps.json
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\Banking.runtimeconfig.json
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmForgot.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmForgotHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHome.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmHomeHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmLogin.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmRegHelp.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.frmRegister.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.Properties.Resources.resources
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.AssemblyInfo.cs
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.csproj.CopyComplete
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\refint\Banking.dll
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.pdb
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\Banking.genruntimeconfig.cache
+C:\Users\Student\OneDrive - City of Dublin ETB\Desktop\SollyVinson_FFA6183_EDP\Banking - Copy\obj\Debug\net6.0-windows\ref\Banking.dll
